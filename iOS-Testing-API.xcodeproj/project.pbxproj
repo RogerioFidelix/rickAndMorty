@@ -65,17 +65,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A3972D6125E1D26300BF6223 /* MVC */ = {
+		A3972D6125E1D26300BF6223 /* MVP */ = {
 			isa = PBXGroup;
 			children = (
 				A3676F0925E00E67002B003C /* CharacterDetailsViewController.xib */,
 				A3676F0C25E010C2002B003C /* CharacterDetailsViewController.swift */,
 				A36EDCE325E1854A00B889AC /* CharacterPresenter.swift */,
 			);
-			path = MVC;
+			path = MVP;
 			sourceTree = "<group>";
 		};
-		A3972D6225E1D26D00BF6223 /* MVP */ = {
+		A3972D6225E1D26D00BF6223 /* MVC */ = {
 			isa = PBXGroup;
 			children = (
 				A3F5779325DDA25B006BE6A5 /* CharacterTableViewController.xib */,
@@ -84,7 +84,7 @@
 				A3F5779925DDA606006BE6A5 /* CharacterCell.xib */,
 				A3F5779B25DDA6A1006BE6A5 /* CharacterCell.swift */,
 			);
-			path = MVP;
+			path = MVC;
 			sourceTree = "<group>";
 		};
 		A3972D6325E1D27300BF6223 /* Model */ = {
@@ -132,8 +132,8 @@
 			isa = PBXGroup;
 			children = (
 				A3972D6325E1D27300BF6223 /* Model */,
-				A3972D6225E1D26D00BF6223 /* MVP */,
-				A3972D6125E1D26300BF6223 /* MVC */,
+				A3972D6225E1D26D00BF6223 /* MVC */,
+				A3972D6125E1D26300BF6223 /* MVP */,
 				A3676F1125E02412002B003C /* ApiCalls.swift */,
 				A3676F1725E04C46002B003C /* SharedFuncs.swift */,
 				A36EDCE925E1B6AC00B889AC /* CharacterBaseViewController.swift */,
