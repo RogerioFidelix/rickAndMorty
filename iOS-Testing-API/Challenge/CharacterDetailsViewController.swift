@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class CharacterDetailsViewController: CharacterBaseViewController {
+class CharacterDetailsViewController: UIViewController {
     @IBOutlet private weak var characterName: UILabel?
     @IBOutlet private weak var characterImage: UIImageView?
     @IBOutlet private weak var characterSpecies: UILabel?
