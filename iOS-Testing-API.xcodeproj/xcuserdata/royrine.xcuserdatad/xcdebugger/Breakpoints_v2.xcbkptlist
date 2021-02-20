@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "46E2AC38-C1E9-44D5-B3CA-25C542E860B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96FE6F12-C2DA-4870-B106-66CFEA4246A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS-Testing-API/Challenge/CharacterPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "loadLayout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3ED8679A-398D-4D37-8089-7334DF6EAEDF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS-Testing-API/Challenge/CharacterPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "loadCharacterModel(characterId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3ED8679A-398D-4D37-8089-7334DF6EAEDF - 92caecf0a93b17ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_Testing_API.CharacterPresenter.loadCharacterModel(characterId: Swift.String) -&gt; ()"
+                  moduleName = "iOS-Testing-API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/royrine/Desktop/iOS-Testing-API/iOS-Testing-API/Challenge/CharacterPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "3ED8679A-398D-4D37-8089-7334DF6EAEDF - 693bd82daad3a11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (iOS_Testing_API.SingleCharacterModel) -&gt; () in iOS_Testing_API.CharacterPresenter.loadCharacterModel(characterId: Swift.String) -&gt; ()"
+                  moduleName = "iOS-Testing-API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/royrine/Desktop/iOS-Testing-API/iOS-Testing-API/Challenge/CharacterPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "143">
+               </Location>
+               <Location
+                  uuid = "3ED8679A-398D-4D37-8089-7334DF6EAEDF - c21e720bab7721c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (iOS_Testing_API.SingleCharacterModel) -&gt; () in iOS_Testing_API.CharacterPresenter.loadCharacterModel(characterId: Swift.String) -&gt; ()"
+                  moduleName = "iOS-Testing-API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/royrine/Desktop/iOS-Testing-API/iOS-Testing-API/Challenge/CharacterPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
